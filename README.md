@@ -44,12 +44,12 @@ O projeto intitulado “COLORSENSE: Tecnologia Portátil para Identificação de
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
+Código：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | descrição                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Atendimento ao Cliente: Transformando Orçamentos em Vendas e Fidelização.                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos de Marketing e escreva um Artigo atendendo as regras abaixo: Crie sub títulos e separe por blocos cada parte do Artigo {REGRAS} No máximo com 5 linhas por bloco de explicação, Me explique de maneira informal como se eu fosse uma criança de 10 anos, Os blocos que serão criados estão abaixo: Como definir o público alvo, Qual a melhor forma de comunicação com o cliente, Como superar objeções, Como saber a hora de fechamento, Expresse sua opinião de como converter orçamentos em vendas e ainda fidelizar o cliente, Faça um call to action para as minhas redes sociais,  Coloque 3 hashtags que façam sentido |
+|  título  | XXXXXXX.                                                                                                                                                                                                    |
+| conteúdo | VVVVVVVV |
 
 ## ✨ Características
 
