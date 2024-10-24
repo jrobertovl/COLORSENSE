@@ -41,12 +41,12 @@ O projeto intitulado “COLORSENSE: Tecnologia Portátil para Identificação de
 - [SketchUp] - para gerar o case em 3D
 - [Kiri:Moto](https://grid.space/kiri/) - Para conversão de arquivos .stl para .gcode
 
-## 📄 Prompts e ferramentas
+## 📄 Gerado na IDE do Arduino
 
 
 Código：
 
-|   Ação   | descrição                                                                                                                                                                                                                                                                         |
+|   Arquivo   | descrição                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | XXXXXXX.                                                                                                                                                                                                    |
 | conteúdo | VVVVVVVV |
