@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="#"><img src="assets/Prototipo2.png" alt="Projeto">
+  <a href="#"><img src="assets/Prototipo2.jpg" alt="Projeto">
   </a>
   
 </p>
