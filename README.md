@@ -26,7 +26,7 @@ Tecnologia Portátil para Identificação de Cores em Roupas para Deficientes Vi
 
 <p align="center">
   <a href="#" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
+  <img src="assets/EquipeProjeto.png" width="80%">
   </a>
 <p>
 
