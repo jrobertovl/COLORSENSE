@@ -37,8 +37,8 @@ O projeto intitulado “COLORSENSE: Tecnologia Portátil para Identificação de
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Arduino] - para título e conteúdo
-- [SketchUp] - para gerar imagens
+- [Arduino] - para desenvolver o código
+- [SketchUp] - para gerar o case em 3D
 - [Kiri:Moto](https://grid.space/kiri/) - Para conversão de arquivos .stl para .gcode
 
 ## 📄 Prompts e ferramentas
@@ -50,17 +50,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Atendimento ao Cliente: Transformando Orçamentos em Vendas e Fidelização.                                                                                                                                                                                                    |
 | conteúdo | Comporte-se como um escritor de artigos de Marketing e escreva um Artigo atendendo as regras abaixo: Crie sub títulos e separe por blocos cada parte do Artigo {REGRAS} No máximo com 5 linhas por bloco de explicação, Me explique de maneira informal como se eu fosse uma criança de 10 anos, Os blocos que serão criados estão abaixo: Como definir o público alvo, Qual a melhor forma de comunicação com o cliente, Como superar objeções, Como saber a hora de fechamento, Expresse sua opinião de como converter orçamentos em vendas e ainda fidelizar o cliente, Faça um call to action para as minhas redes sociais,  Coloque 3 hashtags que façam sentido |
-
-
-Lexica.art：
-
-No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
-
-- Atendimento;
-- Pós venda;
-- Fidelização de cliente;
-- Inovação tecnológica.
-
 
 ## ✨ Características
 
