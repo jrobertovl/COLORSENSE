@@ -23,7 +23,7 @@
 Tecnologia Portátil para Identificação de Cores em Roupas para Deficientes Visuais
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o projeto de extensão na disciplina de Programação de Microcontroladores no qual fui aluno na plataforma da [Faculdade Faci Wyden](https://www.wyden.com.br/) com o professor [Paulo Tássio da Luz Melo][https://www.linkedin.com/in/paulotassio/].
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o projeto de extensão na disciplina de Programação de Microcontroladores no qual fui aluno na plataforma da [Faculdade Faci Wyden](https://www.wyden.com.br/) com o professor [Paulo Tássio da Luz Melo](https://www.linkedin.com/in/paulotassio/).
 
 <p align="center">
   <a href="#" title="Preview do Conteúdo">
