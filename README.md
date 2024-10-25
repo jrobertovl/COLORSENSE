@@ -37,8 +37,9 @@ O projeto intitulado “COLORSENSE: Tecnologia Portátil para Identificação de
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Arduino] - para desenvolver o código
-- [SketchUp] - para gerar o case em 3D
-- [Kiri:Moto](https://grid.space/kiri/) - Para conversão de arquivos .stl para .gcode
+- [SketchUp] - para gerar o case 3D em arquivo .stl
+- [Creality Print] - Impressora 3D para gerar o case físico;
+- [Kiri:Moto](https://grid.space/kiri/) - Para conversão de arquivos .stl para .gcode.
 
 ## 📄 Gerado na IDE do Arduino
 
@@ -48,12 +49,18 @@ Código：
 |   Arquivo   | descrição                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Q0704_LeitorDeCor_TCS3200.ino  | Este código em C++ usa o sensor de cor TCS230 e o módulo de som DFPlayer Mini para ler a cor detectada e tocar um arquivo de áudio correspondente. Bibliotecas e Objetos: Inclui as bibliotecas para o sensor de cor, para a contagem de frequência e para o controle de um MP3 player. Pinos e Componentes: Define os pinos para os componentes (sensor de cor, LED e botão). Configuração Inicial: No setup(), inicializa o sensor de cor, configura o botão, o LED e chama a função configuraMP3() para ajustar o módulo MP3, incluindo o volume. Loop Principal: Ao detectar o pressionamento do botão, o LED acende e o sensor de cor lê a cor. Após a leitura, exibe os valores RGB e o nome da cor correspondente. Toca o arquivo de áudio associado, onde cada cor tem um número que corresponde a um arquivo de som numerado na pasta MP3 do DFPlayer Mini. O LED é desligado após a execução do áudio. Este código permite identificar cores e tocar um som específico para cada uma, criando uma interação áudio-visual.                                                                                                                                                                                                    |
-| conteúdo | VVVVVVVV |
+| ColorMatch.h | Este código define uma estrutura para reconhecer cores e associá-las a valores específicos, permitindo identificar a cor mais próxima de uma leitura RGB. Definições e Dados de Calibração: BLACK_CAL, WHITE_CAL, READ_VAL, e LEARN_VAL definem estados de operação; sdBlack e sdWhite são valores de calibração para preto e branco, usados para ajustar o sensor. Tabela de Cores: colorTable é uma estrutura que associa um nome a valores RGB de cada cor, e a tabela ct[] contém seis cores pré-definidas (BRANCO, VERMELHO, VERDE, AZUL, LARANJA e PRETO), cada uma com seus valores RGB e um arquivo de áudio MP3 correspondente. Função colorMatch(): Essa função recebe um valor RGB lido e calcula a distância entre ele e cada cor na tabela ct[], usando a soma dos quadrados das diferenças para medir similaridade. Retorna o índice da cor mais próxima (ou igual, se a distância for zero). Este código é projetado para identificar a cor mais próxima entre as opções da tabela e pode ser integrado a um sistema que reproduz sons específicos para cada cor reconhecida. |
 
 ## ✨ Características
 
-- Conteúdo ....
-- Imagens ....
+- Portátil
+- Cor: preto;
+- Botão liga/desliga;
+- Botão Push para leitura de cores;
+- Medidas: 20cm x 6,5cm x 5cm (L x P x A);
+- 2 Baterias de lítio recarregáveis (4.2v cada);
+- Placa para balanceamento de carga;
+- Fonte para carregamento 7 a 12v.
 
 ## 📚 Materiais
 
@@ -69,9 +76,9 @@ Código：
 - Alto-falante
 - parafusos
 
-## 🛠️ Instruções de execução
+## 🛠️ Instruções de uso
 
-Utilize os .....
+Ligue o dispositivo, pressione e solte o botão para aleitura de cor, encoste a parte frontal junto a roupa. O led acenderá e será reproduzido em áudio a cor da roupa.
 
 ## 👨‍💻 Expert
 
