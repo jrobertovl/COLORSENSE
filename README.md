@@ -43,13 +43,14 @@ Equipe:
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Arduino] - para desenvolver o código
-- [SketchUp] - para gerar o case 3D em arquivo .stl
+- [Arduino] - para desenvolver o código;
+- [Thinkercad] - para desenvolver e testar o código;
+- [SketchUp] - para gerar o case 3D em arquivo .stl;
+- [Fusion 360] - para gerar o case 3D em arquivo .stl;
 - [Creality Print] - Impressora 3D para gerar o case físico;
 - [Kiri:Moto](https://grid.space/kiri/) - Para conversão de arquivos .stl para .gcode.
 
 ## 📄 Gerado na IDE do Arduino
-
 
 Código：
 
