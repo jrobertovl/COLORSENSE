@@ -47,17 +47,7 @@ Código：
 
 |   Arquivo   | descrição                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Q0704_LeitorDeCor_TCS3200.ino  | Este código em C++ usa o sensor de cor TCS230 e o módulo de som DFPlayer Mini para ler a cor detectada e tocar um arquivo de áudio correspondente.
-
-Bibliotecas e Objetos: Inclui as bibliotecas para o sensor de cor, para a contagem de frequência e para o controle de um MP3 player.
-Pinos e Componentes: Define os pinos para os componentes (sensor de cor, LED e botão).
-Configuração Inicial: No setup(), inicializa o sensor de cor, configura o botão, o LED e chama a função configuraMP3() para ajustar o módulo MP3, incluindo o volume.
-Loop Principal:
-Ao detectar o pressionamento do botão, o LED acende e o sensor de cor lê a cor.
-Após a leitura, exibe os valores RGB e o nome da cor correspondente.
-Toca o arquivo de áudio associado, onde cada cor tem um número que corresponde a um arquivo de som numerado na pasta MP3 do DFPlayer Mini.
-O LED é desligado após a execução do áudio.
-Este código permite identificar cores e tocar um som específico para cada uma, criando uma interação áudio-visual.                                                                                                                                                                                                    |
+|  Q0704_LeitorDeCor_TCS3200.ino  | Este código em C++ usa o sensor de cor TCS230 e o módulo de som DFPlayer Mini para ler a cor detectada e tocar um arquivo de áudio correspondente. Bibliotecas e Objetos: Inclui as bibliotecas para o sensor de cor, para a contagem de frequência e para o controle de um MP3 player. Pinos e Componentes: Define os pinos para os componentes (sensor de cor, LED e botão). Configuração Inicial: No setup(), inicializa o sensor de cor, configura o botão, o LED e chama a função configuraMP3() para ajustar o módulo MP3, incluindo o volume. Loop Principal: Ao detectar o pressionamento do botão, o LED acende e o sensor de cor lê a cor. Após a leitura, exibe os valores RGB e o nome da cor correspondente. Toca o arquivo de áudio associado, onde cada cor tem um número que corresponde a um arquivo de som numerado na pasta MP3 do DFPlayer Mini. O LED é desligado após a execução do áudio. Este código permite identificar cores e tocar um som específico para cada uma, criando uma interação áudio-visual.                                                                                                                                                                                                    |
 | conteúdo | VVVVVVVV |
 
 ## ✨ Características
