@@ -31,6 +31,12 @@ Tecnologia Portátil para Identificação de Cores em Roupas para Deficientes Vi
 <p>
 
 O projeto intitulado “COLORSENSE: Tecnologia Portátil para Identificação de Cores em Roupas para Deficientes Visuais” tem como objetivo utilizar a tecnologia assistiva. Nossa proposta é desenvolver um dispositivo portátil que permita a um deficiente visual identificar a cor das roupas que está usando ou irá usar, utilizando microcontroladores e sensores. Com o apoio da Associação Paraense das Pessoas com Deficiência, esperamos proporcionar ao deficiente visual bem-estar, qualidade de vida e satisfação pessoal ao poder escolher as cores de suas roupas sem o auxílio de outras pessoas e fortalecer o vínculo entre a universidade e a comunidade local.
+Equipe:
+- José Roberto Vasconcellos Lopes
+- Thiago Sousa Vasconcellos Lopes
+- Luiz Felipe Barata Queiroz
+- Luiz Henrique Gualberto Scotta
+- Rafaela Mesquita Moraes de Almeida
 
 <a href="#" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
